@@ -1,0 +1,11 @@
+Nombre del Equipo:
+Fedrac
+
+Miembros:
+Grieco, Sofía
+Hernández Hutter, Agustin Ignacio
+Ricaldy Valda, Rosalba Danna
+Valmaggia, Federico Gabriel
+
+Link al GitHub del proyecto:
+https://github.com/AgustinHutter/ATK-Fedrac
